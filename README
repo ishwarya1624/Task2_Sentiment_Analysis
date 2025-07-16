@@ -1,0 +1,15 @@
+# Task 2: Sentiment Analysis
+
+This repository contains Task 2 of the CodTech Machine Learning Internship.
+
+## Objective
+To perform sentiment analysis using TF-IDF and Logistic Regression.
+
+## Files
+- sentiment_analysis.ipynb
+- sentiment_data.csv
+- task2_report.docx
+- output_screenshot.png
+
+## Result
+Model trained and evaluated with accuracy of ~90%.
